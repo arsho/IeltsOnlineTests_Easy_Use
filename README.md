@@ -37,8 +37,7 @@ Use <a href="http://ieltsonlinetests.com">IeltsOnlineTests</a> easily without an
 <li>Use <a href="http://ieltsonlinetests.com">IeltsOnlineTests</a> easily without any ad or unwanted views.</li>
 </ol>
 <hr>
-<b>Watch installation and demonstration process in <a href="http://www.youtube.com/watch?v=ergwNaSeWuk">Youtube link here</a>.</b>
-[![IeltsOnlineTests_Easy_Use Youtube Demo](http://img.youtube.com/vi/ergwNaSeWuk/0.jpg)](http://www.youtube.com/watch?v=ergwNaSeWuk)
+<b>Watch installation and demonstration process in <a href="https://www.youtube.com/watch?v=Jm_ILNzx0KE">Youtube link here</a>.</b>
 <hr>
 <h3>Enjoy!</h3>
 <p>If you have any suggestion, please send a message to <a href="https://www.facebook.com/ars.shovon">https://www.facebook.com/ars.shovon</a></p>
