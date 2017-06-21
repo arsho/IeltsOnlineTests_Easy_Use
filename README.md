@@ -8,15 +8,15 @@ Use <a href="http://ieltsonlinetests.com">IeltsOnlineTests</a> easily without an
  </p>
 <hr>
 <b>Practice exams are simplified using IeltsOnlineTests_Easy_Use</b>
+
 ![alt IeltsOnlineTests_Easy_Use Demo1](https://raw.githubusercontent.com/arsho/IeltsOnlineTests_Easy_Use/master/IeltsOnlineTests_Easy_Use_screenshot1.png)
+
 <hr>
 <hr>
 <b>Writing tests using IeltsOnlineTests_Easy_Use</b>
 
-![alt Lena Söderberg](https://raw.githubusercontent.com/arsho/local_binary_patterns/master/lenna.jpg)
-
-
 ![alt IeltsOnlineTests_Easy_Use Demo2](https://raw.githubusercontent.com/arsho/IeltsOnlineTests_Easy_Use/master/IeltsOnlineTests_Easy_Use_screenshot2.png)
+
 <hr>
 
 <h3>
