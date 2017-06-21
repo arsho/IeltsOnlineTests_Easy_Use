@@ -11,13 +11,9 @@ Use <a href="http://ieltsonlinetests.com">IeltsOnlineTests</a> easily without an
 
 ![alt IeltsOnlineTests_Easy_Use Demo1](https://raw.githubusercontent.com/arsho/IeltsOnlineTests_Easy_Use/master/IeltsOnlineTests_Easy_Use_screenshot1.png)
 
-<hr>
-<hr>
 <b>Writing tests using IeltsOnlineTests_Easy_Use</b>
 
 ![alt IeltsOnlineTests_Easy_Use Demo2](https://raw.githubusercontent.com/arsho/IeltsOnlineTests_Easy_Use/master/IeltsOnlineTests_Easy_Use_screenshot2.png)
-
-<hr>
 
 <h3>
 <a id="installation" class="anchor" href="#installation" aria-hidden="true"><span class="octicon octicon-link"></span></a>Installation:
