@@ -1,4 +1,4 @@
- <p>
+﻿ <p>
 IeltsOnlineTests_Easy_Use is a chrome extension. 
 Use <a href="http://ieltsonlinetests.com">IeltsOnlineTests</a> easily without any ad or unwanted views.
  </p>
@@ -12,7 +12,10 @@ Use <a href="http://ieltsonlinetests.com">IeltsOnlineTests</a> easily without an
 <hr>
 <hr>
 <b>Writing tests using IeltsOnlineTests_Easy_Use</b>
+
 ![alt Lena Söderberg](https://raw.githubusercontent.com/arsho/local_binary_patterns/master/lenna.jpg)
+
+
 ![alt IeltsOnlineTests_Easy_Use Demo2](https://raw.githubusercontent.com/arsho/IeltsOnlineTests_Easy_Use/master/IeltsOnlineTests_Easy_Use_screenshot2.png)
 <hr>
 
